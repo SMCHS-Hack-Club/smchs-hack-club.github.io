@@ -1,0 +1,87 @@
+#topBanner{
+  position: fixed;
+  height: 30px;
+  width: 100%;
+  background: #e0e6ed;
+}
+
+#topText{
+  position: fixed;
+  font-family: Georgia, serif;
+  top: 17.5px;
+  color: #273444;
+  font-size: 10px;
+  text-transform: uppercase;
+  right: 25px;
+}
+
+#bottom{
+  background: #8492a6;
+  height: 1000px;
+}
+
+#hackclubflag{
+  
+}
+
+#TopLogoLeft{
+  position: fixed;
+  top: 7px;
+  scale: 150%;
+  left: -7px;
+}
+
+#spacer{
+  height: 225px;
+}
+
+h1 {
+  color: white;
+}
+
+text {
+  color: white;
+  font-weight: bold;
+}
+
+#sidebysidetextboxLeft{
+  position: static;
+  width: 40%;
+  height: 200px;
+  background: #ec3750;
+  border-radius: 25px;
+  border: 6px solid #e0e6ed;
+  padding-left: 25px;
+  padding-right: 25px;
+  overflow: hidden;
+  margin-left: 25px;
+}
+
+details{
+  color: white;
+}
+
+#faq{
+  position: static;
+  width: 40%;
+  height: 225px;
+  background: #ec3750;
+  border-radius: 25px;
+  border: 6px solid #e0e6ed;
+  padding-left: 25px;
+  padding-right: 25px;
+  overflow: hidden;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#sidebysidetextboxRight{
+  width: 100px;
+  height: 50px;
+  background: #e0e6ed;
+  right: 25px;
+}
+
+#fullwidthtextblock{
+  
+}
